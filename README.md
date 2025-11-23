@@ -47,7 +47,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 Voici un exemple de détection de texte avec notre programme OCR :
 
-![Résultat](Resultat.png)
+![Résultat](Résultat.PNG)
 
 ---
 
